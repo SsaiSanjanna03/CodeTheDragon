@@ -42,7 +42,6 @@ codethedragon/
 ### Backend (Spring Boot)
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-repo/codethedragon.git
    cd codethedragon/backend
    ```
 2. Configure database in `application.properties`.
@@ -69,19 +68,10 @@ codethedragon/
 1. Open `mobile/` in Android Studio.
 2. Run the app on an emulator or a physical device.
 
-## 🏆 Contributing
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature-xyz`).
-3. Commit your changes.
-4. Push to your branch and create a Pull Request.
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-- **Your Name** – [LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Email** – your.email@example.com
+- **Your Name** – https://www.linkedin.com/in/ssai-sanjanna-ganji/
+- **Email** – ssganji@iastate.edu
 - **Project Repository** – [GitHub](https://github.com/your-repo/codethedragon)
 
 
